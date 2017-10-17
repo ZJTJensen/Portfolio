@@ -49,6 +49,9 @@ h1{
 #aboutText{
     margin:10px;
 }
+.aboutText{
+    margin:10px;
+}
 .about{
     background: linear-gradient(rgb(77, 77, 77), rgb(53, 52, 53), rgb(77, 77, 77));
     color:white;
